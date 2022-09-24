@@ -1,0 +1,36 @@
+.movie{
+    margin: auto;
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr);
+    gap: 20px;
+}
+.movie-card{
+    height: 300px;
+    box-shadow: 1px 1px 8px 1px rgb(227, 227, 227);
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 10px;
+}
+.movie-card .img{
+    height: 60%;
+    width: 200px;
+
+}
+.movie-card .img img{
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+.movie-card .text p{
+    font-size: 19px;
+    font-weight: 600;
+    margin: 10px 0px;
+}
+.movie-card .text h6{
+    font-size: 14px;
+    margin: 0;
+}

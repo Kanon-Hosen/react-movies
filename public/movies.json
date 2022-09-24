@@ -1,0 +1,403 @@
+
+ [
+        {
+            "film_id": 318740,
+            "imdb_id": 1466863,
+            "imdb_title_id": "tt1466863",
+            "film_name": "Lyle, Lyle, Crocodile",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-10-07",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/318740_high.mp4",
+            "synopsis_long": "When the Primm family moves to New York City, their young son Josh struggles to adapt to his new school and new friends. All of that changes when he discovers Lyle - a singing crocodile who loves baths, caviar and great music-living in the attic of his new home. The two become fast friends, but when Lyle's existence is threatened by evil neighbor Mr. Grumps, the Primm's must band together with Lyle's charismatic owner, Hector P. Valenti, to show the world that family can come from the most unexpected places and there's nothing wrong with a big singing crocodile with an even bigger personality.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/318740/318740h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 333253,
+            "imdb_id": 15474916,
+            "imdb_title_id": "tt15474916",
+            "film_name": "Smile",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-09-30",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for strong violent content and grisly images, and language."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/333253_high.mp4",
+            "synopsis_long": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter (Sosie Bacon) starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins taking over her life, Rose must confront her troubling past in order to survive and escape her horrifying new reality.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/333253/333253h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/333253/333253h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 331978,
+            "imdb_id": 10304142,
+            "imdb_title_id": "tt10304142",
+            "film_name": "Amsterdam",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-10-07",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for brief violence and bloody images."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/331978_high_V2.mp4",
+            "synopsis_long": "From 20th Century Studios, New Regency, and acclaimed filmmaker David O. Russell comes \"Amsterdam,\" an original crime epic about three close friends who find themselves at the center of one of the most shocking secret plots in American history.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/331978/331978h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/331978/331978h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 317046,
+            "imdb_id": 9731598,
+            "imdb_title_id": "tt9731598",
+            "film_name": "Bros",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-09-30",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for strong sexual content, language throughout and some drug use."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/317046_high.mp4",
+            "synopsis_long": "Universal Pictures proudly presents the first romantic comedy from a major studio about two gay men maybe, possibly, probably stumbling towards love. Maybe. They're both very busy.  From the ferocious comic mind of Billy Eichner and the hitmaking brilliance of filmmakers Nicholas Stoller and Judd Apatow, comes BROS, a smart, swoony and heartfelt comedy about finding sex, love and romance amidst the madness.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/317046/317046h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/317046/317046h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 303491,
+            "imdb_id": 6443346,
+            "imdb_title_id": "tt6443346",
+            "film_name": "Black Adam",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-10-21",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for sequences of strong violence, intense action and some language."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/303491_high_V2.mp4",
+            "synopsis_long": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods - and imprisoned just as quickly - Black Adam (Johnson) is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/303491/303491h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/303491/303491h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 296287,
+            "imdb_id": 10665342,
+            "imdb_title_id": "tt10665342",
+            "film_name": "Halloween Ends",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-10-14",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for bloody horror violence and gore, language throughout and some sexual references."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/296287_high.mp4",
+            "synopsis_long": "Four years after the events of last year's Halloween Kills, Laurie is living with her granddaughter Allyson (Andi Matichak) and is finishing writing her memoir. Michael Myers hasn't been seen since. Laurie, after allowing the specter of Michael to determine and drive her reality for decades, has decided to liberate herself from fear and rage and embrace life. But when a young man, Corey Cunningham (Rohan Campbell; The Hardy Boys, Virgin River), is accused of killing a boy he was babysitting, it ignites a cascade of violence and terror that will force Laurie to finally confront the evil she can't control, once and for all.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/296287/296287h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 334013,
+            "imdb_id": 3104956,
+            "imdb_title_id": "tt3104956",
+            "film_name": "The Good House",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-09-30",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/334013_high.mp4",
+            "synopsis_long": "The Good House follows Hildy Good (Sigourney Weaver), a wry New England realtor and descendant of the Salem witches, who loves her wine and her secrets. Her compartmentalized life begins to unravel as she rekindles a romance with her old high-school flame, Frank Getchell (Kevin Kline), and becomes dangerously entwined in one person's reckless behavior. Igniting long-buried emotions and family secrets, Hildy is propelled toward a reckoning with the one person she's been avoiding for decades: herself.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/334013/334013h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/334013/334013h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 335280,
+            "imdb_id": 13131350,
+            "imdb_title_id": "tt13131350",
+            "film_name": "Vikram Vedha",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-09-30",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/335280_high_V2.mp4",
+            "synopsis_long": "Vikram Vedha is an action-thriller showcasing the face-off between a tough cop Vikram (Saif Ali Khan) and a dreaded gangster Vedha (Hrithik Roshan). The film underlines 'between Good & Evil, what you choose, defines you'.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/335280/335280h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 334819,
+            "imdb_id": 10268488,
+            "imdb_title_id": "tt10268488",
+            "film_name": "The Greatest Beer Run Ever",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-09-30",
+                    "notes": "Platform"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "or language and some war violence."
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "To show support for his neighborhood friends serving in Vietnam, Chickie Donohue decides to do something totally outrageous: travel to the frontline by himself to bring the soldiers a little piece of home - their favorite can of American beer. However, what started as a well-meaning journey quickly turns into the adventure of a lifetime as Chickie confronts the reality of this controversial war and his reunions with his childhood buddies thrust him into the complexities and responsibilities of adulthood.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/334819/334819h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 292713,
+            "imdb_id": 10701074,
+            "imdb_title_id": "tt10701074",
+            "film_name": "Ponniyin Selvan - 1 (Tamil)",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-09-29",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/292713/292713h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        }
+    ]
